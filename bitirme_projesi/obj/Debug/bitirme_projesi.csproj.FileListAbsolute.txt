@@ -1,0 +1,19 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\bitirme_projesi\bitirme_projesi\bin\Debug\bitirme_projesi.exe.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\bitirme_projesi\bitirme_projesi\bin\Debug\bitirme_projesi.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\bitirme_projesi\bitirme_projesi\bin\Debug\bitirme_projesi.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.pdb
+E:\Eski Calismalar\bitirme_projesi\bitirme_projesi\bin\Debug\bitirme_projesi.exe.config
+E:\Eski Calismalar\bitirme_projesi\bitirme_projesi\bin\Debug\bitirme_projesi.exe
+E:\Eski Calismalar\bitirme_projesi\bitirme_projesi\bin\Debug\bitirme_projesi.pdb
+E:\Eski Calismalar\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.csprojAssemblyReference.cache
+E:\Eski Calismalar\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.Form1.resources
+E:\Eski Calismalar\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.Properties.Resources.resources
+E:\Eski Calismalar\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.csproj.GenerateResource.cache
+E:\Eski Calismalar\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.csproj.CoreCompileInputs.cache
+E:\Eski Calismalar\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.exe
+E:\Eski Calismalar\bitirme_projesi\bitirme_projesi\obj\Debug\bitirme_projesi.pdb
